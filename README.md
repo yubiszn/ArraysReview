@@ -1,5 +1,3 @@
-# ArraysReview
-
 # Generates an Array of Integers
 
 # Finds The Largest Value In That Array
